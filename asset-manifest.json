@@ -1,14 +1,13 @@
 {
-  "main.css": "/introduccion-a-react/static/css/main.a4890507.chunk.css",
-  "main.js": "/introduccion-a-react/static/js/main.28888d02.chunk.js",
-  "main.js.map": "/introduccion-a-react/static/js/main.28888d02.chunk.js.map",
-  "static/js/1.08d832ae.chunk.js": "/introduccion-a-react/static/js/1.08d832ae.chunk.js",
-  "static/js/1.08d832ae.chunk.js.map": "/introduccion-a-react/static/js/1.08d832ae.chunk.js.map",
+  "main.css": "/introduccion-a-react/static/css/main.ad1abf79.chunk.css",
+  "main.js": "/introduccion-a-react/static/js/main.8f1fee36.chunk.js",
+  "main.js.map": "/introduccion-a-react/static/js/main.8f1fee36.chunk.js.map",
+  "static/js/1.6bc9ebac.chunk.js": "/introduccion-a-react/static/js/1.6bc9ebac.chunk.js",
+  "static/js/1.6bc9ebac.chunk.js.map": "/introduccion-a-react/static/js/1.6bc9ebac.chunk.js.map",
   "runtime~main.js": "/introduccion-a-react/static/js/runtime~main.1040697b.js",
   "runtime~main.js.map": "/introduccion-a-react/static/js/runtime~main.1040697b.js.map",
-  "static/media/Ruled_paper_note_with_pin.png": "/introduccion-a-react/static/media/Ruled_paper_note_with_pin.8619e0cf.png",
-  "static/css/main.a4890507.chunk.css.map": "/introduccion-a-react/static/css/main.a4890507.chunk.css.map",
+  "static/css/main.ad1abf79.chunk.css.map": "/introduccion-a-react/static/css/main.ad1abf79.chunk.css.map",
   "index.html": "/introduccion-a-react/index.html",
-  "precache-manifest.23f1f1b754576b8181ab7bbfe1a727ef.js": "/introduccion-a-react/precache-manifest.23f1f1b754576b8181ab7bbfe1a727ef.js",
+  "precache-manifest.165bb3e9cc183d3bb87c9158e2d090ed.js": "/introduccion-a-react/precache-manifest.165bb3e9cc183d3bb87c9158e2d090ed.js",
   "service-worker.js": "/introduccion-a-react/service-worker.js"
 }
