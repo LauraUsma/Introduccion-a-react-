@@ -15,7 +15,7 @@
     "gh-pages": "^4.0.0",
     "react-scripts": "^2.1.3"
   },
-  "homepage": "https://LauraUsma.github.io/introduccion-a-react",
+  "homepage": "https://laurausma.github.io/Introduccion-a-react-/",
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
